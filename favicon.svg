@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Magli">
+<circle cx="32" cy="32" r="31" fill="#174F9B"/>
+<circle cx="42" cy="19" r="8" fill="#F2B705"/>
+<path d="M6 46 L22 22 L32 36 L38 28 L58 46 Q46 60 32 61 Q18 60 6 46Z" fill="#2E8B3E"/>
+<path d="M17 47 L24 38 L32 47 L38 41 L46 47" fill="none" stroke="#fff" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>
