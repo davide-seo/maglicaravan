@@ -1,17 +1,2 @@
 User-agent: *
 Allow: /
-# Anteprima: le pagine portano noindex finché il sito non passa sul dominio definitivo.
-
-# Motori di risposta AI: benvenuti
-User-agent: GPTBot
-Allow: /
-User-agent: OAI-SearchBot
-Allow: /
-User-agent: ClaudeBot
-Allow: /
-User-agent: PerplexityBot
-Allow: /
-User-agent: Google-Extended
-Allow: /
-
-Sitemap: https://davide-seo.github.io/maglicaravan/sitemap.xml

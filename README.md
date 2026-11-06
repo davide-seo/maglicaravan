@@ -1,7 +1,6 @@
-# Magli Caravan · nuovo sito (anteprima)
+# Magli Caravan · ricambi originali Hymer
 
-Ricostruzione statica di www.maglicaravan.it (Joomla): 168 schede veicolo con prezzi, dati tecnici, dotazioni e gallerie; vetrine filtrabili di camper e caravan (pronta consegna, usato, da ordinare, venduti); pagine marchio Hymer, Eriba, Niesmann+Bischoff; 68 consegne con le loro foto; officina, ricambi, accessori; richiesta guidata di preventivo o visita e prenotazione dell'officina; dati strutturati (AutoDealer, Vehicle con Offer, FAQPage, BreadcrumbList), sitemap e llms.txt.
+Pagina unica per chiedere ricambi originali Hymer: numero di telaio, descrizione e foto del pezzo, inviati per email.
+La concessionaria e l'officina di Ozzano dell'Emilia sono chiuse; i vecchi indirizzi del sito rimandano qui.
 
-Anteprima: https://davide-seo.github.io/maglicaravan/ · Design system: https://davide-seo.github.io/maglicaravan/design-system/
-
-Le pagine portano `noindex` finché il sito resta su github.io.
+Anteprima con `noindex`. Sorgente: `~/Desktop/maglicaravan-sito/ricambi` (`node build.mjs`, `PREVIEW=0` per il dominio vero).
